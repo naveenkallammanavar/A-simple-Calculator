@@ -1,4 +1,5 @@
 echo "hello every"
+echo "hello world"
 function getHistory(){
 	return document.getElementById("history-value").innerText;
 }
