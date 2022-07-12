@@ -1,5 +1,6 @@
 echo "hello every"
 echo "hello world"
+echo "the code is changes by naveen"
 function getHistory(){
 	return document.getElementById("history-value").innerText;
 }
